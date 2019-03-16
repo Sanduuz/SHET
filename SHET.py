@@ -24,7 +24,7 @@ try:
     from bs4 import BeautifulSoup
 except ImportError:
     print "Missing Library: BS4"
-    exit("Please install library: `pip install bs4`")
+    exit("Please install library: `pip install bs4 lxml`")
 
 def acquireAPIKey():
     APIKeyExists = os.path.isfile('./APIKEY/API.key')
