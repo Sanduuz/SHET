@@ -1,10 +1,10 @@
 Smart Home Exploitation Tool\
 Copyright (c) 2019 Sanduuz
 ___________________
-*S*mart\
-*H*ome\
-*E*xploitation\
-*T*ool
+**S**mart\
+**H**ome\
+**E**xploitation\
+**T**ool
 
 SHET is an automated tool for hacking vulnerable versions of Contec Intelligent Housing Smarthomes.
 
